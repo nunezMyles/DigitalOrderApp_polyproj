@@ -1,4 +1,4 @@
-# digital_order_app_school
+# digital_order_app_schoolwork
 
 ## Database
 - Done in MySQL
