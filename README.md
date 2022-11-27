@@ -1,4 +1,4 @@
-# SQL Project for the module: Database Design & Applications 
+# SQL Project for module: Database Design & Applications 
 
 ## Database
 - Done in MySQL
