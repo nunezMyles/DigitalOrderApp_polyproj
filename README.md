@@ -1,4 +1,4 @@
-# digital_order_app_schoolwork
+# SQL Project for the module: Database Design & Applications 
 
 ## Database
 - Done in MySQL
