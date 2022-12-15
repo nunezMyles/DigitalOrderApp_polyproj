@@ -1,7 +1,7 @@
-# SQL Project for module: Database Design & Applications 
+# SQL Project for 'Database Design & Applications' module
 
 ## Database
-- Done in MySQL
+- MySQL
 
-## Client side
-- Done in PyCharm
+## UI
+- PyCharm Console
